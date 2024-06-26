@@ -40,13 +40,6 @@ const App = () => {
           </div>
         </div>
       </div>
-      <button
-        onClick={() => {
-          replay();
-        }}
-      >
-        restart
-      </button>
     </div>
   );
 };
